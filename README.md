@@ -33,7 +33,7 @@ Folow these steps to set up the project on your local machine Ensure you have th
 
 # git clone 
 
-https://github.com/fatiabdulahi/mark-down-previewer
+https://github.com/Sharifarezaie/Markdown-Previewer/
 
 ## Usage 🎯
 
@@ -56,16 +56,16 @@ npm install react-markdown
 -javascript
 
 -github usage
--palindrome checker project
+-markdoun-previewer project
 
 
-## Author 👩‍💻 FATIMA ABDULLAHI
+## Author 👩‍💻 sharifarezaie
 
 Provide your name and a link to your Social Media profiles. You can also include your email address.
 
 
-- LinkedIn:https://www.linkedin.com/in/fatima-abdullahi-6288662b2
-- Email: fatima333abdullahi@gmail.com
+- https://www.linkedin.com/in/sharifa-rezaie-
+- Email: sharifashaida82@gmail.com
 
 ## Contributing 🤝
 
